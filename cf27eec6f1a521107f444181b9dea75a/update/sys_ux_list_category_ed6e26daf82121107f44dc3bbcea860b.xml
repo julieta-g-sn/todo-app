@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="To Do Workspace_menu_config">2d6e26daf82121107f44dc3bbcea8609</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 14:07:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed6e26daf82121107f44dc3bbcea860b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_snc_to_do">cf27eec6f1a521107f444181b9dea75a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">cf27eec6f1a521107f444181b9dea75a</sys_scope>
+        <sys_update_name>sys_ux_list_category_ed6e26daf82121107f44dc3bbcea860b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 14:07:51</sys_updated_on>
+        <title>To Do</title>
+    </sys_ux_list_category>
+</record_update>

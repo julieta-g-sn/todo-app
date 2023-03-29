@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (My Todos)">56924bdef86121107f44dc3bbcea8632</button>
+        <item_parameter display_value="My Todos assigned_to">1e924bdef86121107f44dc3bbcea862e</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 15:36:06</sys_created_on>
+        <sys_id>9e924bdef86121107f44dc3bbcea8638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1e924bdef86121107f44dc3bbcea862e</sys_name>
+        <sys_package display_value="To Do" source="x_snc_to_do">cf27eec6f1a521107f444181b9dea75a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">cf27eec6f1a521107f444181b9dea75a</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9e924bdef86121107f44dc3bbcea8638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 15:36:06</sys_updated_on>
+        <ui_parameter display_value="Assigned to">5e924bdef86121107f44dc3bbcea8632</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

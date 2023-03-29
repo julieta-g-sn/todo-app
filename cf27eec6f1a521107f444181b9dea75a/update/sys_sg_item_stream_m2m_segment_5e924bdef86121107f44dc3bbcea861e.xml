@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="96924bdef86121107f44dc3bbcea861c Item Stream">56924bdef86121107f44dc3bbcea861e</item_stream>
+        <segment display_value="My Todos Item Stream Segment">5e924bdef86121107f44dc3bbcea861d</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 15:36:06</sys_created_on>
+        <sys_id>5e924bdef86121107f44dc3bbcea861e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_snc_to_do">cf27eec6f1a521107f444181b9dea75a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">cf27eec6f1a521107f444181b9dea75a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_5e924bdef86121107f44dc3bbcea861e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 15:36:06</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

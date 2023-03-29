@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="importance" table="x_snc_to_do_to_do" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <name>x_snc_to_do_to_do</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-14 19:12:22</sys_created_on>
+            <sys_id>948a26caf1a521107f444181b9dea77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>importance</sys_name>
+            <sys_package display_value="To Do" source="x_snc_to_do">cf27eec6f1a521107f444181b9dea75a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">cf27eec6f1a521107f444181b9dea75a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_to_do_to_do_importance</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-14 19:12:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Important</label>
+            <language>en</language>
+            <name>x_snc_to_do_to_do</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-14 19:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d88a26caf1a521107f444181b9dea77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-14 19:12:22</sys_updated_on>
+            <value>not_important</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Important</label>
+            <language>en</language>
+            <name>x_snc_to_do_to_do</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-14 19:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>588ae28af1a521107f444181b9dea7ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-14 19:12:22</sys_updated_on>
+            <value>important</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Very important</label>
+            <language>en</language>
+            <name>x_snc_to_do_to_do</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-14 19:12:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>188a26caf1a521107f444181b9dea781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-14 19:12:22</sys_updated_on>
+            <value>very_important</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

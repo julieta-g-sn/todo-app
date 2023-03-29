@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_condition">
+    <sys_ux_screen_condition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <screen display_value="Agent Assist">306ee2da2c21211069f0d0279ace0d82</screen>
+        <screen_condition/>
+        <script><![CDATA[(function canShowAA(params) {
+    return new x_snc_to_do.workspaceStarterExpUtils().checkContextualConfig(params.table);
+})(inputProperties);]]></script>
+        <scripted_condition>true</scripted_condition>
+        <sys_class_name>sys_ux_screen_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-15 14:07:49</sys_created_on>
+        <sys_id>fc6ee2dae621211091de5a5e9b2a0781</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_snc_to_do">cf27eec6f1a521107f444181b9dea75a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">cf27eec6f1a521107f444181b9dea75a</sys_scope>
+        <sys_update_name>sys_ux_screen_condition_fc6ee2dae621211091de5a5e9b2a0781</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 14:07:49</sys_updated_on>
+    </sys_ux_screen_condition>
+</record_update>

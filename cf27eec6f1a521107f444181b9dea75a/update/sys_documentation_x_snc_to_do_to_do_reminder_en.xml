@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reminder" label="Reminder" language="en" table="x_snc_to_do_to_do">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reminder</element>
+            <help/>
+            <hint/>
+            <label>Reminder</label>
+            <language>en</language>
+            <name>x_snc_to_do_to_do</name>
+            <plural>Reminders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-14 19:12:21</sys_created_on>
+            <sys_id>d88a26caf1a521107f444181b9dea74d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reminder</sys_name>
+            <sys_package display_value="To Do" source="x_snc_to_do">cf27eec6f1a521107f444181b9dea75a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">cf27eec6f1a521107f444181b9dea75a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_to_do_to_do_reminder_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-14 19:12:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
